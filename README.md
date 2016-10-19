@@ -1,6 +1,6 @@
 ## 用例图
 
-![case](images/1.PNG)
+![case](https://github.com/1784196067/useCase/blob/master/images/%EF%BC%91.png)
 
 ***
 
