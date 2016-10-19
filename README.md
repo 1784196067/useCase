@@ -1,12 +1,12 @@
 ## 用例图
 
-![case](images/1.png)
+![case](images/1.PNG)
 
 ***
 
 ## 用例描述
 
-![descripts1](images/3.png)
+![descript1](images/2.PNG)
 
 
-![descripts2](images/2.png)
+![descript2](images/3.PNG)
