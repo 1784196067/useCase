@@ -11,14 +11,17 @@
 
 
 *  设备保养信息录入
+
 ![descript2](images/5.png)
 
 
 
 * 预警
+
 ![descript2](images/2.png)
 
 
 
 * 查询
+
 ![descript2](images/4.png)
